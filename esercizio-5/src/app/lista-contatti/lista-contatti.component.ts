@@ -10,16 +10,16 @@ import { Component } from '@angular/core';
 })
 export class ListaContattiComponent {
   contatti=[
-    {nome:"ryan", cognome:"raynols", numero:"000", età:"38", isOnline:true, colore:"yellow", immagine:""},
-    {nome:"dwayne", cognome:"johnson", numero:"111", età:"51", isOnline:false, colore:"blue", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"222", età:"38", isOnline:true, colore:"brown", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"333", età:"38", isOnline:false, colore:"purple", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"444", età:"38", isOnline:true, colore:"pink", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"555", età:"38", isOnline:false, colore:"lightblue", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"666", età:"38", isOnline:true, colore:"orange", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"777", età:"38", isOnline:false, colore:"darkorange", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"888", età:"38", isOnline:true, colore:"lightpink", immagine:""},
-    {nome:"ryan", cognome:"raynols", numero:"999", età:"38", isOnline:false, colore:"green", immagine:""},
+    {nome:"Ryan", cognome:"Reynolds", numero:"000", età:"45", isOnline:true, colore:"yellow", immagine:"../../assets/ryan reynols.jpg"},
+    {nome:"Dwayne", cognome:"Johnson", numero:"111", età:"49", isOnline:false, colore:"blue", immagine:"../../assets/Dwayne_Johnson_2014_(cropped).jpg"},
+    {nome:"Leonardo", cognome:"Di Caprio", numero:"222", età:"47", isOnline:true, colore:"brown", immagine:"../../assets/LeonardoDiCaprio.jpg"},
+    {nome:"Serena", cognome:"Williams", numero:"333", età:"40", isOnline:false, colore:"purple", immagine:"../../assets/Serena-Williams.jpg"},
+    {nome:"Elon", cognome:"Musk", numero:"444", età:"50", isOnline:true, colore:"pink", immagine:"../../assets/Elon_Musk.jpg"},
+    {nome:"Michelle", cognome:"Obama", numero:"555", età:"58", isOnline:false, colore:"lightblue", immagine:"../../assets/Michelle_Obama.jpg"},
+    {nome:"Brad", cognome:"Pitt", numero:"666", età:"59", isOnline:true, colore:"orange", immagine:"../../assets/Brad_Pitt.jpg"},
+    {nome:"Taylor", cognome:"Swifth", numero:"777", età:"33", isOnline:false, colore:"darkorange", immagine:"../../assets/Taylor_Swift.png"},
+    {nome:"Emma", cognome:"Watson", numero:"888", età:"31", isOnline:true, colore:"lightpink", immagine:"../../assets/emma watson.jpg"},
+    {nome:"Oprah", cognome:"Winfrey", numero:"999", età:"68", isOnline:false, colore:"green", immagine:"../../assets/oprah winfrey.jpg"},
   ]
 
 }
